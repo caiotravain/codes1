@@ -1,0 +1,22 @@
+.falso_body {
+    display:flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.hamburguer{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    width: 100%;
+}
+.corpo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.voltar{height: 4rem;}
