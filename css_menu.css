@@ -43,3 +43,11 @@
     border: 2px solid #000000;
     background-color: #000000;
 }
+.vestibulares{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1.65;
+    height: 2.5rem;
+}
