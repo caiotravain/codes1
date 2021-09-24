@@ -40,10 +40,10 @@
     justify-content: center;
     width: 100%;
     border: 1px solid #000000;
-    background-color: #000000;
+    margin: 0.5rem;
 }
 
 .quadrado{
-    padding: .5rem;
+    padding: 2rem;
     border: 2px solid #000000;
 }
