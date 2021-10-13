@@ -7,17 +7,10 @@
     align-items: center;
 }
 
-.cabecario{
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: center;
-    width: 26%;
-}
-
 .hamburguer{
-    display: flex;
-    flex-direction: row;
+    position: absolute;
+    top:1px;
+    left: 1px;
     height: 3rem;
 }
 
