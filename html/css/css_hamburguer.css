@@ -10,7 +10,7 @@
     height: 100%;
     width: 50%;
     justify-content: center;
-    align-items: left;
+    align-items: flex-start;
     
 
 }
