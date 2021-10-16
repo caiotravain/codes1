@@ -32,11 +32,20 @@
     flex-direction: row;
     justify-content: center;
     width: 100%;
-    border: 1px solid #000000;
+    border: 2px solid hsl(178, 0%, 50%);
+    background-color: hsl(178, 0%, 50%);
     margin: 0.5rem;
 }
 
 .quadrado{
     padding: 2rem;
-    border: 2px solid #000000;
+    border: 5px solid hsl(178, 0%, 50%);
+    background-color: rgb(255, 255, 255);
 }
+html{
+    background-color: hsl(204, 100%, 77%);
+}
+h1{font-family: 'Hind', sans-serif;}
+h2{font-family: 'Hind', sans-serif;}
+li{font-family: 'Crimson Text', serif;
+font-size: 1.3rem;}

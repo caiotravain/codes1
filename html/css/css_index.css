@@ -4,12 +4,12 @@
     height: 100%;
     width: 100%;
     justify-content: center;
-    align-items: center;
+    align-items: center;    
 }
 .imagem{
     position: absolute;
     right: 1px;
-    top: 6rem;
+    top: 7.5rem;
     height: 3rem;
 }
 .linha{
@@ -48,4 +48,11 @@ h2{
     flex-direction: row;
     justify-content: center;
     width: 100%;
+    font-family: 'Hind', sans-serif;
+}
+html{
+    background-color: hsl(204, 100%, 77%);
+}
+h1{
+    font-family: 'Hind', sans-serif;
 }

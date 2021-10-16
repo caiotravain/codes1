@@ -9,7 +9,8 @@
 
 .quadrado{
     padding: .5rem;
-    border: 2px solid #000000;
+    border: 5px solid hsl(178, 0%, 50%);
+    background-color: rgb(255, 255, 255);
 }
 
 .title{
@@ -29,4 +30,12 @@ h1{
     flex-direction: row;
     justify-content: center;
     width: 100%;
+    font-family: 'Hind', sans-serif;
 }
+html{
+    background-color: hsl(204, 100%, 77%);
+}
+h2{font-family: 'Hind', sans-serif;}
+p{font-family: 'Crimson Text', serif;
+font-size: 1.3rem;}
+    

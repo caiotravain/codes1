@@ -20,12 +20,12 @@
     align-items: center;
     justify-content: center;
     padding: 1rem;
-    border: 2px solid #000000;
-    background-color: white;
+    border: 3px solid hsl(178, 0%, 50%);
 }
 .icone{
     height: 3rem;
     align-items: center;
+    filter: brightness(0%);
 }
 .voltar{
     height: 3rem;
@@ -33,6 +33,13 @@
 
 }
 .quadrado{padding: 1rem;
-    border: 2px solid #000000;
+    border: 5px solid hsl(178, 0%, 50%);
+    background-color: hsl(23, 72%, 53%);
 
 }
+html{
+    background-color: hsl(204, 100%, 77%);
+}
+h1{font-family: 'Hind', sans-serif;}
+h2{font-family: 'Hind', sans-serif;}
+a{font-family: 'Crimson Text', serif;}

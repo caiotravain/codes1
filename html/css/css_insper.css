@@ -25,7 +25,8 @@
     padding-bottom: 0.5rem;
     padding-right: 0.3rem;
     border: 2px solid ;
-    width: 100%;
+    width: 90%;
+    background-color: rgb(255, 255, 255);
 }
 .voltar{
     height: 2rem;
@@ -49,4 +50,12 @@ h1{
     display: flex;
     flex-direction: row;
     justify-content: center;
+    font-family: 'Hind', sans-serif;
 }
+html{
+    background-color: hsl(204, 100%, 77%);
+}
+h2{font-family: 'Hind', sans-serif;}
+p{font-family: 'Crimson Text', serif;
+font-size: 1.3rem;}
+    
