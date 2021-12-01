@@ -6,17 +6,16 @@ document.addEventListener('DOMContentLoaded',function() {
     aberto = false
     
     botao.addEventListener('click', function(event){
+        
         if (aberto == false){
         falso2.style.display = 'flex'
-        falso2.style.position = 'fixed'
-        falso2.style.top= '1px'
         aberto = true
     
         }
     })
      
     falso1.addEventListener('click',function(event){
-        if (aberto== true){
+        if (aberto== true ){
         falso2.style.display = 'none'
         aberto = false
         }
